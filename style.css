@@ -1,0 +1,16 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #ffe2ed;
+}
+
+.jumbotron .display-4 {
+    margin: 1rem 0;
+}
+
+#member {
+    background-color: #ffe2ed;
+}
+
+section {
+   padding-top: 6rem;
+}
